@@ -2,6 +2,9 @@
 HoLa HuMaNoS
 
 el primer memfile que hicimos fue 
+
+
+```assembly
 10000093 // addi x1, x0, 0x100
 20000113 // addi x2, x0, 0x200
 30000193 // addi x3, x0, 0x300
@@ -64,8 +67,10 @@ el primer memfile que hicimos fue
 00000013 // nop
 00000013 // nop
 0000006F // jal x0, 0
+```
 
 en nuuestro test bench pusimos los resultados que deberian haber salido
+```assembly
     $display("Checking Python Matmul Results:");
     
     // C[0,0] (0x300 -> 192) = 23.93 (0x41bf70a4)
@@ -94,6 +99,7 @@ en nuuestro test bench pusimos los resultados que deberian haber salido
 
     $display("Simulation Finished.");
     $finish;
+```
 y todo salio correcto
 Checking Matmul Results:
 PASS: C[0,0] = 41bf70a4 (Expected 41bf70a4)
