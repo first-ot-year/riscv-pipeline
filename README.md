@@ -101,6 +101,7 @@ en nuuestro test bench pusimos los resultados que deberian haber salido
     $finish;
 ```
 y todo salio correcto
+```assembly
 Checking Matmul Results:
 PASS: C[0,0] = 41bf70a4 (Expected 41bf70a4)
 PASS: C[0,1] = 41e67ae2 (Expected 41e67ae2)
@@ -2811,6 +2812,7 @@ xsim: Time (s): cpu = 00:00:08 ; elapsed = 00:00:05 . Memory (MB): peak = 7910.4
 INFO: [USF-XSim-96] XSim completed. Design snapshot 'tb_pipeline_behav' loaded.
 INFO: [USF-XSim-97] XSim simulation ran for 300000ns
 launch_simulation: Time (s): cpu = 00:00:19 ; elapsed = 00:00:15 . Memory (MB): peak = 7910.480 ; gain = 77.305 ; free physical = 14053 ; free virtual = 26996
+```
 
 El waveform fue el siguiente
 <img width="1544" height="846" alt="image" src="https://github.com/user-attachments/assets/74967aa5-35a0-42ad-aac4-59469fdf9c59" />
