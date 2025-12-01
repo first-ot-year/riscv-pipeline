@@ -1,4 +1,3 @@
-<img width="1544" height="846" alt="image" src="https://github.com/user-attachments/assets/d119c694-0fb6-46e7-bf5d-708241b3e0b3" />
 
 HoLa HuMaNoS
 
@@ -2821,6 +2820,8 @@ El waveform fue el siguiente
 <img width="1544" height="846" alt="image" src="https://github.com/user-attachments/assets/e5353ba3-33d8-4bf8-82ae-85cdea35ed77" />
 
 <img width="1544" height="846" alt="image" src="https://github.com/user-attachments/assets/7fd592eb-8d87-4c27-8296-fa8ed8231383" />
+
+<img width="1544" height="846" alt="image" src="https://github.com/user-attachments/assets/d119c694-0fb6-46e7-bf5d-708241b3e0b3" />
 
 <img width="1544" height="846" alt="image" src="https://github.com/user-attachments/assets/32fbbd36-5d88-454e-8744-337831dc94db" />
 
